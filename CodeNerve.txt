@@ -1,5 +1,5 @@
 <span id="a">code@mckay</span>:<span id="b">~</span><span id="c">$</span> cd code/<!-- kjsdfhkjdhsfkjdshfkj -->About_Mckay
-<span id="a">code@mckay</span>:<span id="b">~</span><span id="c">$</span> stuff <!-- kjsdfhkjdhsfkjdshfkj -->mckay.txt<br/><br/>
+<span id="a">code@mckay</span>:<span id="b">~</span><span id="c">$</span> go run <!-- kjsdfhkjdhsfkjdshfkj -->mckay.go<br/><br/>
 
 
 Hey There! <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>My name is Mckay Anderson</p>
